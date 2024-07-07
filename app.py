@@ -2,7 +2,7 @@ import streamlit as st
 from citymate import CityMateRecommender, load_model, save_model
 from utils import load_citymate_data
 
-st.set_page_config(page_title="CityMate", page_icon="✨", layout="wide")
+st.set_page_config(page_title="CityMate - Networthy", page_icon="✨", layout="wide")
 
 st.title("AI Powered - CityMate Recommendaion")
 

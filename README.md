@@ -1,4 +1,9 @@
-## Networthy ✨
+## Networthy
+
+<p align="center">
+  <img src="https://github.com/codingstella/personal-blog-website/assets/113582974/fa7953fb-a0f4-4507-8596-feba29c7c968
+" alt="Certificate">
+</p>
 
 ### Project Overview
 Networthy: Your Trusted City Companion

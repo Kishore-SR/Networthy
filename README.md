@@ -1,11 +1,21 @@
-## Networthy - amBITion'24
+## Networthy ✨
 
 ### Project Overview
 Networthy: Your Trusted City Companion
 
 Networthy connects individuals relocating to new cities with verified local guides, CityMates, ensuring a stress-free transition by providing personalized support in finding accommodations, safe neighborhoods, and essential services.
 
-[![Project Link](https://img.shields.io/badge/Project%20Link-blue?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=blue)](addLinkHere)
+[![Project Link](https://img.shields.io/badge/Project%20Link-37a779?style=for-the-badge)](https://net-worthy.web.app/)
+
+## amBITion'24 Hackathon
+
+The 24-hour amBITion Hackathon was conducted by Bangalore Institute of Technology on 6-7th July, 2024, with 100 teams participating from all over Karnataka.
+
+Our team "Cosmic" won 3rd place in the AI/ML track for this project Networthy, receiving a certificate and cash prize.
+
+Here is the certificate below:
+![Certificate](https://github.com/codingstella/personal-blog-website/assets/113582974/756f1be1-dc57-4e32-ba1f-98727bcd16e6)
+
 
 ### Features and Functionality
 - **City-specific Information:** Connects newcomers with local guides for personalized support and detailed city information.
